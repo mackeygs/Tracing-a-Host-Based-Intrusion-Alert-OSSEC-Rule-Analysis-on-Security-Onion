@@ -173,4 +173,4 @@ It also showed how much context a single action generates. One `adduser` command
 
 ## Author
 
-**Geoffrey Mackey**, Cybersecurity and Information Technology student at the University of Cincinnati.
+**Geoffrey Mackey**, Cybersecurity Professional & Student at the University of Cincinnati.
